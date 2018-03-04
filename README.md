@@ -1,2 +1,2 @@
 # amcl
-ros amcl with CUDA package
+ros amcl package with CUDA
