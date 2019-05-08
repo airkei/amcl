@@ -7,5 +7,4 @@ Use CUDA to calcurate much more particle filter
 ## Features
 
 ## License
-
-[MIT](http://b4b4r07.mit-license.org)
+[LGPL](http://wiki.ros.org/amcl)
