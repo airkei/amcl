@@ -1,12 +1,11 @@
-# refered from https://github.com/ros-planning/navigation/amcl
+# original code
+https://github.com/ros-planning/navigation/tree/melodic-devel/amcl
 
-# amcl
+
 ROS amcl package optimized for Jetson TX1.
 
 ## Description
-Use CUDA to calcurate much more particle filter
-
-## Features
+Use CUDA to calculate much more particle filter
 
 ## License
 [LGPL](http://wiki.ros.org/amcl)
